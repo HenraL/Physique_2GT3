@@ -1,0 +1,27 @@
+définition de:
+
+thérapeutique:
+	def: relatif au traitement des maladies 
+	synonyme: curatifs  
+
+antalgique: 
+	synonymes analgésiques; 
+	def: se dit d'un médicament destiner à réduire la douleur;
+
+antipyrétique: 
+	def: se dit d'un médicament destiner à combattre la fièvre;
+	synonym: fébrifuge;
+
+anticoagulant : 
+	def: se dit d'un médicament destiner à éviter la coagulation naturelle du sang et la formation de caillots sanguins; 
+
+Synthèse chimique:
+
+	def: enchainement de réactions chimiques mise en oeuvre pour l'obtention d'un ou de plusieurs produits finaux
+
+Principes actifs:
+	def: est la molécule qui dans un médicament possède un effet thérapeutique
+
+excipient (ex):
+
+	def: désigne toutes les substances autres que le principe actif dans un médicament.

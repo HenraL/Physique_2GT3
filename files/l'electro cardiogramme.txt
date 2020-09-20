@@ -1,0 +1,20 @@
+réponse à la problématique:
+D'après mes connaissances, je sais que l'osciloscope permet de mesurer deux grandeurs, le tension et le temps pour visualiser une tension. D'après le document, je sais que l'électrocardioscope permet de mesurer deux grandeurs: la tension et le temps pour suivre l'activité cardiaque d'un patient. l'osciloscope et l'électrocardioscope sont des appareils qui permettent de mesurer les mêmes grandeurs. l'élecrtocardioscope est plus perfectionner, car il permet également de visualiser la fréquence cardiaque.
+
+ex 16 p 26:
+
+1.a Oui il semble que le signal est périodique car y et t sont a peu près les mêmes.
+1.b T=7.8*0.4=3s
+    T=3/3=1s
+
+  Hz
+   |
+  \|/
+2. F=1/T <-- s
+   F=1/1
+   F=1Hz
+
+3. fc=60/1=60 batt/min
+
+ex 18 p 26:
+1. 

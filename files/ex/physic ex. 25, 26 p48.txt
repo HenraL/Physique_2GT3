@@ -1,0 +1,60 @@
+EX 26 p 48:
+
+1
+ ion iodure
+  127
+   I-
+   53
+
+2
+
+K+
+
+3
+I-+K+=IK
+
+4
+127
+  I
+ 53
+
+131
+  I
+ 53
+
+5
+Ces isotopes diffèrent avec leurs nombres neutrons.
+
+6
+(K)²(l)8(M)18+25
+On ne peut pas appliquer la loi puisque l'on a appris que la formule jusqu'a N, est il reste 25 électrons à placer.
+
+EX 27 p 48
+
+1)
+L'atome de souffre est présent dans les deux solutions car il est cité dans les deux formules.
+
+2)
+    												   2-
+S²- est monoatomique car il n'y a que le souffre or dans la formule S2O3   
+contient deux noyaux le noyau de souffre S et le noyau d'oxygène O.
+
+3)
+ 16
+  S
+ 32
+il a 16 protons et 32 neutrons+protons.
+
+4)
+
+(K)²(l)8 (M)6 
+
+Comme la coche externe M contient 6e et qu'elle en avoir jusqu'a 18 alors elle n'est pas saturée.
+
+5)
+La particularité de l'atome de soufre sachant qu'il n'est pas saturé est qu'il aura non 16e mais 18e et M ne sera toujours pas saturé.
+
+6)
+Il faudra deux ions sodium pour compenser la charge 2- car
+
+S2-  +Na+ --> SNa.

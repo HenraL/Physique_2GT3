@@ -1,0 +1,16 @@
+V les ions
+
+un ion monoatomique est un atome qui a perdu ou gagné un ou plusieurs électrons. Pour former un ion le noyau n'est jamais modifier(A et Z restent identiques).
+
+Un cation est un atome qui a perdu au moin un électron sur sa couche externe(Ca2+; Na+...).
+
+Un anion est un atome qui a gagner au moin un  électron sur sa couche extere(O2-; Cl-...).
+
+Un compopsé ionique est un solide constituer par l'associatoion d'anion et de cation.(NaCl-->Na+ + Cl-; 2Na+ + O2- -->Na indice(2)O)
+
+ex 25 p 48:
+()exposant
+{}indice
+
+{9}F,,Na F:K(2)L(7(+1))F(-)
+	Na:K(2)L(8)()'Na(+)
